@@ -16,6 +16,6 @@ Restart quiz option
 Tech Stack
 Frontend: React.js 
 
-Styling: Tailwind CSS 
+Styling: CSS 
 
 Hosting: Vercel
