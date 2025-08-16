@@ -19,3 +19,35 @@ Frontend: React.js
 Styling: CSS 
 
 Hosting: Vercel
+
+Project Setup
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/quiz-app.git
+cd quiz-app
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Run the development server:
+
+bash
+Copy
+Edit
+npm run dev
+Build for production:
+
+bash
+Copy
+Edit
+npm run build
+
+Contributing
+Contributions are welcome! If you’d like to improve the app, feel free to fork the repo and submit a pull request.
+
+
